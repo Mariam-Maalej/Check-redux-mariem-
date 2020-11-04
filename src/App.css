@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-image: url("https://i1.wp.com/www.civillitigationbrief.com/wp-content/uploads/2018/08/white-1714170_960_720-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+.container {
+  margin-top: 80px;
+}
+h1 {
+  font-weight: lighter;
+  padding-bottom: 20px;
+  color: rgb(75, 70, 70);
+}
+.submit {
+  background-color: darkgray;
+  padding: 10px;
+  border-color: black;
+  width: 100px;
+  color: rgb(59, 22, 34);
+}
+.input-task {
+  border: none;
+  text-align: center;
+  height: 30px;
+}
+.todo-ul {
+  list-style-type: none;
+}
+.icon {
+  cursor: pointer;
+  width : 30px;
+  height: 30px;
+}
